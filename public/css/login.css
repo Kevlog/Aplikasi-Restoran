@@ -1,0 +1,65 @@
+body {
+  background-image: url("https://www.metropoleonwalnut.com/wp-content/themes/metropole/_/images/body_bg-dark.png");
+  /* background-color: #cccccc; */  
+ }
+
+.wrapper {    
+	margin-top: 80px;
+  margin-bottom: 20px;    
+}
+
+.form-signin {
+  max-width: 420px;
+  padding: 30px 38px 66px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.527);
+  border: 20px double rgba(0,0,0,0.1);      
+  }
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+
+input[type="text"] {
+  margin-bottom: 0px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  opacity: 1; 
+}
+
+.colorgraph {
+  height: 7px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 25%, #8fff94 50%, #8fff94 25%, #fecf71 75%, #fecf71 37.5%, #64f837 100%, #64f837 50%);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 25%, #8fff94 50%, #8fff94 25%, #fecf71 75%, #fecf71 37.5%, #64f837 100%, #64f837 50%);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 25%, #8fff94 50%, #8fff94 25%, #fecf71 75%, #fecf71 37.5%, #64f837 100%, #64f837 50%);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 25%, #8fff94 50%, #8fff94 25%, #fecf71 75%, #fecf71 37.5%, #64f837 100%, #64f837 50%);
+}
+    
+.colorgraph2 {
+  height: 7px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #000000, #000000 15%, #424242 50%, #424242 55%, #858585 75%, #858585 37.5%, #cccccc 100%, #cccccc 50%);
+  background-image: -moz-linear-gradient(left, #000000, #000000 15%, #424242 50%, #424242 55%, #858585 75%, #858585 37.5%, #cccccc 100%, #cccccc 50%);
+  background-image: -o-linear-gradient(left, #000000, #000000 15%, #424242 50%, #424242 55%, #858585 75%, #858585 37.5%, #cccccc 100%, #cccccc 50%);
+  background-image: linear-gradient(to right, #000000, #000000 15%, #424242 50%, #424242 55%, #858585 75%, #858585 37.5%, #cccccc 100%, #cccccc 50%);
+}
+    
